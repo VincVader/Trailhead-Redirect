@@ -1,1 +1,1 @@
-window.location.replace("http://trailblazer.me/id/bukhonov");
+window.location.replace("https://trailblazer.me/id/bukhonov");
